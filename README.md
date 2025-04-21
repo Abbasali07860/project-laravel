@@ -1,2 +1,2 @@
 # project-laravel
-Author : Abbasali Maknojiya
+Author : Abbasali Memanjiya(Maknojiya)
